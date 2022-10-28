@@ -1,0 +1,70 @@
+x 0.38305
+y 0.93392
+z 1.69086
+quality 0
+superFrameNumber 5
+
+
+x 0.19002
+y 1.22462
+z 0.43655
+quality 1
+superFrameNumber 6
+
+
+x 1.54018
+y 0.71743
+z 1.65689
+quality 2
+superFrameNumber 7
+
+
+x 1.32979
+y 0.24269
+z 0.94719
+quality 3
+superFrameNumber 8
+
+
+x 0.44399
+y 1.35243
+z 0.12463
+quality 4
+superFrameNumber 9
+
+
+x 1.20368
+y 1.66407
+z 1.94728
+quality 5
+superFrameNumber 10
+
+
+x 0.97944
+y 1.45883
+z 0.64451
+quality 6
+superFrameNumber 11
+
+
+x 0.7803
+y 0.06878
+z 0.46076
+quality 7
+superFrameNumber 12
+
+
+x 0.11378
+y 1.90897
+z 0.85275
+quality 8
+superFrameNumber 13
+
+
+x 0.61018
+y 1.91628
+z 1.56361
+quality 9
+superFrameNumber 14
+
+
